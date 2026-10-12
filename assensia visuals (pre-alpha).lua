@@ -1,5 +1,5 @@
 -- ============================================================================
--- [ASSENSIA VISUAL] v6.5 — Pure Obsidian & Modular Weather Engine
+-- [ASSENSIA VISUAL] v6.5 — Modular Weather Engine
 -- ============================================================================
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
